@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelloActivity!</string>
+    <string name="app_name">SearchU</string>
+    <string name="hw">Stalking made Easy!</string>
+    <string name="serach">Search:</string>
+    <string name="find_related_links">Go</string>
+    <string name="nsearch">News Search</string>
+    <string name="Images">Images</string>
+    <string name="Twitter">Twitter</string>
+    <string name="Wiki">Wiki</string>
+    <string name="Youtube">Youtube</string>
+    <string name="Facebook">Facebook</string>
+</resources>
